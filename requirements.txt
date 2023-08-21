@@ -1,0 +1,16 @@
+tensorboard==2.9
+tensorboardX
+jiwer
+soundfile
+ffmpeg<5
+addict
+torchaudio==0.12
+librosa
+datasets
+transformers
+tgt
+pandas
+seaborn
+ast
+sklearn
+pytorch==1.12
