@@ -6,7 +6,7 @@
 - The link to the paper: <https://www.isca-speech.org/archive/interspeech_2023/ryu23_interspeech.html>
 - The paper and the code was extended to my Master's thesis (access will be available from October!), where MTL with RMSE+CTC and GoP features brought better results for APA task
 - Regarding the license, please refer to the LICENSE.md
-- If there are any problems, feel free to email me (rhss10@snu.ac.kr) or post an issue.
+- If there are any problems, feel free to email me (<rhss10@snu.ac.kr>) or post an issue.
 
 ## Citation
 
@@ -25,6 +25,7 @@ If you find this repository useful, please cite our paper
 
 ## Code
 
+- python version 3.8 (3.8.0, 3.8.16) was used for training and testing
 - For all steps, don't forget to change the path to your own directories!
 - For MDD evaluation, Kaldi needs to be installed beforehand to utilize SCTK toolkit. (<https://kaldi-asr.org/doc/install.html>)
 
